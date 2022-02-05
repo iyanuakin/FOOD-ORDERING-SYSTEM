@@ -54,7 +54,7 @@ I also practiced implementation of new modules that I found like getpass and dat
 
 ---
 
-- __Cited sources/ Appropriate acknowledgements___
+- __Cited sources/ Appropriate acknowledgements__
 
 YOUTUBE: From __Corey Schafer’s Channel__ (Great Resource), I learned how to use:
 • The getpass module (for my manager mode access). https://www.youtube.com/watch?v=C-gEQdGVXbk&t=2005s
