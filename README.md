@@ -9,7 +9,7 @@ I planned to reduce wait periods and ordering mistakes.
 I tried to achieve these by giving direct operation options and by implementing interactive and secure ways to collect and store customer orders.
 
 
-- __Explain in a few sentences why you selected this project, and if you learned what you had hoped to learn by doing this project__
+- __Explain in a few sentences why you selected this project, and if you learned what you had hoped to learn by doing this project?__
 
 I selected this project based on my experience at one of my favorite local restaurants back home in Nigeria. 
 They had great food but there were a lot of challenges while trying to buy food during the rush-hour period. 
@@ -20,7 +20,7 @@ However, I did not get to make a pseudocode for it the way I wanted. I believe t
 
 
 
-- __What you would do differently if you were to have an opportunity to redo this project and why__
+- __What you would do differently if you were to have an opportunity to redo this project and why?__
 
 I would try other approaches to the project. This would enable me to see how different variable types can improve data/input collection, storage, and manipulation. 
 I would like to provide additional features like pagination and a search function to the meal menu. All for a better user/customer experience. 
