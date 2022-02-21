@@ -28,8 +28,8 @@ I would like to provide additional features like pagination and a search functio
 
 - __How to run the program.__
 
-This is a menu ordering system for a business named: OKO IYA'LAMALA KITCHEN.
-You don’t need any additional document to use the program. 
+This is a meal ordering system for a business named: OKO IYA'LAMALA KITCHEN.
+You don’t need any additional document to use the program just copy the code and run in your command line or IDE.
 While in use, the user is to give a valid input based on the instructions displayed.
 The user is to select their meal, give quantity and they may choose to provide their name for the receipt.
 The user can make meal selections from the menu options (there’s a main menu and a specials menu). 
