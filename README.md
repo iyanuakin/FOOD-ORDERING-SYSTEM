@@ -2,14 +2,14 @@
 
 BY: IYANUOLUWA AKINYANJU
 
-- __Describe the project__ 
+- __Project Description__ 
 
-My intention was to make a meal ordering system to improve the customer experience at a local Nigerian restaurant. 
+My intention was to code for a meal ordering system to improve the customer experience at a local Nigerian restaurant. 
 I planned to reduce wait periods and ordering mistakes. 
 I tried to achieve these by giving direct operation options and by implementing interactive and secure ways to collect and store customer orders.
+***
 
-
-- __Explain in a few sentences why you selected this project, and if you learned what you had hoped to learn by doing this project?__
+- __Aim and Lesson(s) Learned__
 
 I selected this project based on my experience at one of my favorite local restaurants back home in Nigeria. 
 They had great food but there were a lot of challenges while trying to buy food during the rush-hour period. 
@@ -17,14 +17,14 @@ It is a small family-owned (and ran) business that I believe would do so much mo
 I hope one day I can develop my code well enough for them to try out. 
 Thanks to this project, I did learn how to manage basic processes programmatically. 
 However, I did not get to make a pseudocode for it the way I wanted. I believe there is plenty room for improvement on my approach.
+***
 
 
-
-- __What you would do differently if you were to have an opportunity to redo this project and why?__
+- __What I would do differently/improve when I get a chance and why__
 
 I would try other approaches to the project. This would enable me to see how different variable types can improve data/input collection, storage, and manipulation. 
 I would like to provide additional features like pagination and a search function to the meal menu. All for a better user/customer experience. 
-
+***
 
 - __How to run the program.__
 
@@ -40,8 +40,9 @@ To use the manager mode, enter 4 form the customer menu and follow the instructi
 
 | Username is manager, Passcode is shalom |
 
+***
 
-- __Was the project challenging in the way you expected? What did you overcome?__ 
+- __Challenges and Feats__ 
 
 Thanks to my very little experience, I found this project very challenging; with each step, there was a new question of how to handle possible errors, or multiple user approaches.
 This project helped me face my fear of functions, while loops and condition statements. 
@@ -52,7 +53,7 @@ I also practiced implementation of new modules that I found like getpass and dat
 
 - My biggest lesson was seeing how handling projects as a piecemeal could be good but it also has its constraints.
 
----
+***
 
 - __Cited sources/ Appropriate acknowledgements__
 
